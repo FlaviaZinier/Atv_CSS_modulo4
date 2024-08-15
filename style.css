@@ -13,6 +13,19 @@ header li {
     margin: 0 auto;
 }
 
+.joguinhos {
+    width: 1366px;
+    margin: 0 auto;
+}
+
+.artigo {
+    display: flex;
+}
+
+.artigo img {
+    width: 265px;
+}
+
 h1{
     background-color:darkcyan;
     padding: 10px;
