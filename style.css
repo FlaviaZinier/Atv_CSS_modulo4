@@ -4,10 +4,6 @@
     padding: 0;
 }
 
-header li {
-    display: inline;
-}
-
 .cabeça {
     width: 1366px;
     margin: 0 auto;
@@ -20,10 +16,15 @@ header li {
 
 .artigo {
     display: flex;
+    width: 50;
 }
 
 .artigo img {
-    width: 265px;
+    width: 230px;
+}
+
+.horas {
+    color: rgb(57, 47, 79);
 }
 
 h1{
@@ -41,7 +42,10 @@ width: 1366;
 margin: 0 auto;
 }
 
-.articles {
-    display: flex;
+.jogo{
+    color: blueviolet;
 }
 
+.dinheiro{
+    color: forestgreen;
+}
